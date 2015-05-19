@@ -1,0 +1,109 @@
+@import url('css/bootstrap.min.css');
+
+* {
+    list-style: none;
+}
+.content-index {
+    background-color: #f9f5e9;
+}
+.page_item {
+    display: inline-block;
+}
+.menu {
+    height: 60px;
+    outline: 1px solid red;
+}
+.menu ul {
+    line-height: 60px;
+}
+.menu ul li {
+    padding: 0 20px;
+}
+.destaques {
+    height: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+.destaques h2 {
+    padding: 5px 15px;
+}
+.destaques p {
+    padding: 0 15px;
+}
+.ultimas {
+    height: auto;
+    outline: 5px solid white;
+    padding-left: 0;
+    padding-right: 0;
+    float: right;
+}
+.ultimas h2 {
+    padding: 5px 15px;
+}
+.ultimas p {
+    padding: 0 15px;
+}
+.categoria1 {
+    margin-top: 5px;
+    height: auto;
+    outline: 5px solid white;
+    padding-left: 0;
+    padding-right: 0;
+}
+.categoria1 h2 {
+    padding: 5px 15px;
+}
+.categoria1 p {
+    padding: 0 15px;
+}
+.categoria2 {
+    margin-top: 11px;
+    height: auto;
+    outline: 5px solid white;
+    padding-left: 0;
+    padding-right: 0;
+}
+.categoria2 h2 {
+    padding: 5px 15px;
+}
+.categoria2 p {
+    padding: 0 15px;
+}
+.categoria3 {
+    margin-top: 5px;
+    height: auto;
+    outline: 5px solid white;
+    padding-left: 0;
+    padding-right: 0;
+}
+.categoria3 h2 {
+    padding: 5px 15px;
+}
+.categoria3 p {
+    padding: 0 15px;
+}
+#texto-destaques {
+    background-color: #CA4634;
+    margin: 0;
+    padding: 10px;
+}
+#texto-ultimas {
+    background-color: #00958C;
+    margin: 0;
+    padding: 10px;
+}
+#texto-cat1 {
+    background-color: #33A7DB;
+    margin: 0;
+    padding: 10px;
+}
+#texto-cat2 {
+    background-color: #E5567C;
+    margin: 0;
+    padding: 10px;
+}
+#texto-cat3 {
+    background-color: #FFCD1A;
+    margin: 0;
+    padding: 10px;
+}
